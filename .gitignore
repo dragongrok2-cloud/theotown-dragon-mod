@@ -1,0 +1,5 @@
+# TheoTown plugin
+.DS_Store
+Thumbs.db
+*.zip
+.idea/
