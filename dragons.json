@@ -1,0 +1,22 @@
+[
+  {
+    "id": "$dragonmod.decoration.dragonstatue00",
+    "type": "decoration",
+    "author": "Grok Dragon",
+    "width": 2,
+    "height": 2,
+    "frames": [{"bmp": "dragon_statue.png"}],
+    "level": 1,
+    "text": "A majestic dragon statue"
+  },
+  {
+    "id": "$dragonmod.residential.dragonhouse00",
+    "type": "residential",
+    "author": "Grok Dragon",
+    "width": 2,
+    "height": 2,
+    "frames": [{"bmp": "dragon_house.png"}],
+    "level": 2,
+    "text": "A cozy house for dragon enthusiasts"
+  }
+]
