@@ -48,5 +48,35 @@
     "frames": [{"bmp": "dragon_roost.png"}],
     "level": 3,
     "text": "An ancient dragon roost high above the city"
+  },
+  {
+    "id": "$dragonmod.decoration.dragonfountain00",
+    "type": "decoration",
+    "author": "Grok Dragon",
+    "width": 2,
+    "height": 2,
+    "frames": [{"bmp": "dragon_fountain.png"}],
+    "level": 2,
+    "text": "A fountain guarded by stone dragons"
+  },
+  {
+    "id": "$dragonmod.residential.dragonvilla00",
+    "type": "residential",
+    "author": "Grok Dragon",
+    "width": 3,
+    "height": 3,
+    "frames": [{"bmp": "dragon_villa.png"}],
+    "level": 4,
+    "text": "Luxury villa for the richest dragon riders"
+  },
+  {
+    "id": "$dragonmod.decoration.dragonbridge00",
+    "type": "decoration",
+    "author": "Grok Dragon",
+    "width": 5,
+    "height": 2,
+    "frames": [{"bmp": "dragon_bridge.png"}],
+    "level": 3,
+    "text": "A grand bridge decorated with dragon motifs"
   }
 ]
